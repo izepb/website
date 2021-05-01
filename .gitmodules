@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/izepb/izepb.github.io
+	branch = master
