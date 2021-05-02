@@ -69,7 +69,7 @@ social:
 # and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
-#   link: https://www.dropbox.com/s/q4xgdozotbhjq90/main.pdf?dl=1
+#   link: media/main.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -82,4 +82,4 @@ I am a PhD student in [Menche Lab](www.menchelab.com) working in the field of Ne
 
 Before that, I was an Erasmus Mundus master's student in Computational and Systems Biology at [KTH](https://www.kth.se/en) & [Aalto](https://www.aalto.fi/en). Biology is becoming increasingly quantitative, and I enjoy bringing my physics/computational backgrounds to solve modern biomedical challenges. Beyond my academic sphere, I often find myself travelling, cycling, cooking, and hiking (:sun:) / skiing (:snowflake:).
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://www.dropbox.com/s/q4xgdozotbhjq90/main.pdf?dl=1" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/main.pdf" "newtab" >}}CV{{< /staticref >}}.
